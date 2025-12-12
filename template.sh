@@ -11,6 +11,6 @@ touch .env
 touch setup.py
 touch app.py
 touch research/trials.ipynb
-touch requirment.txt 
+touch requirments.txt 
 
 echo "directory and files are created"
